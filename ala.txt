@@ -1,0 +1,6 @@
+Marka1 - Wlasciciel1 - 111
+Marka2 - Wlasciciel2 - 222
+Marka3 - Wlasciciel3 - 333
+Marka4 - Wlasciciel4 - 444
+Marka5 - Wlasciciel4 - 444
+Marka6666666 - Wlasciciel4 - 444
